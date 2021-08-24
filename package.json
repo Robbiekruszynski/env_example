@@ -1,0 +1,17 @@
+{
+  "name": "env_lab",
+  "version": "1.0.0",
+  "description": "env example ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robbie kruszynski",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
